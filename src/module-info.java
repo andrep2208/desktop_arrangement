@@ -1,0 +1,2 @@
+module desktop_arrangement {
+}
