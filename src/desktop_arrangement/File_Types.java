@@ -8,7 +8,7 @@ public final class File_Types {
 	public static String[] Email = {"Email",".email",".eml",".emlx",".msg",".oft",".ost",".pst",".vcf"};
 	public static String[] Executable = {"Executable",".apk",".bat",".bin",".cgi",".pl",".com",".exe",".gadget",".jar",".msi",".py",".wsf"};
 	public static String[] Font = {"Font",".fnt",".fon",".otf",".ttf"};
-	public static String[] Image = {"Image",".png",".ai",".bmp",".gif",".ico",".jpeg", ".jpg",".png",".ps",".psd",".svg",".tif",".tiff"};
+	public static String[] Image = {"Image",".PNG",".JPG",".png",".ai",".bmp",".gif",".ico",".jpeg", ".jpg",".png",".ps",".psd",".svg",".tif",".tiff"};
 	public static String[] Presentation = {"Presentation",".key",".odp",".pps",".ppt",".pptx"};
 	public static String[] Program = {"Program",".img",".c",".class",".cpp",".cs",".h",".java",".pl",".sh",".swift",".vb",".asp",".aspx",".cer",".cfm",".cgi",".pl",".css",".htm",".html",".js",".jsp",".part",".php",".py",".rss",".xhtml"};
 	public static String[] Spreadsheet = {"Spreadsheet",".ods",".xls",".xlsm",".xlsx",".xltx"};
